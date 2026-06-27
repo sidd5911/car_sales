@@ -1,0 +1,17 @@
+DealerName,City,State,DealerCode,DealersInState,DealersInCity,UniqueCitiesInState,StateSharePct,CitySharePct,MarketType,StateRank,DealerCodeLength
+Competent Automobiles,Delhi,Delhi,CMP,5,5,1,31.25,31.25,Competitive (Multi-dealer city),1,3
+DD Motors,Delhi,Delhi,DDM,5,5,1,31.25,31.25,Competitive (Multi-dealer city),1,3
+Magic Auto,Delhi,Delhi,MAG,5,5,1,31.25,31.25,Competitive (Multi-dealer city),1,3
+Rana Motors,Delhi,Delhi,RAN,5,5,1,31.25,31.25,Competitive (Multi-dealer city),1,3
+TR Sawhney Motors,Delhi,Delhi,TRS,5,5,1,31.25,31.25,Competitive (Multi-dealer city),1,3
+Kataria Automobiles,Ahmedabad,Gujarat,KAT,2,1,2,12.5,6.25,Single-dealer city,2,3
+Amar Cars Pvt Ltd,Vadodara,Gujarat,AMR,2,1,2,12.5,6.25,Single-dealer city,2,3
+Pratham Motors,Bengaluru,Karnataka,PRT,2,2,1,12.5,12.5,Competitive (Multi-dealer city),2,3
+Sagar Automobiles,Bengaluru,Karnataka,SAG,2,2,1,12.5,12.5,Competitive (Multi-dealer city),2,3
+Khivraj Motors,Chennai,Tamil Nadu,KHV,2,1,2,12.5,6.25,Single-dealer city,2,3
+Ambal Auto,Coimbatore,Tamil Nadu,AMB,2,1,2,12.5,6.25,Single-dealer city,2,3
+Prem Motors,Agra,Uttar Pradesh,PRM,2,1,2,12.5,6.25,Single-dealer city,2,3
+KTL Automobiles,Kanpur,Uttar Pradesh,KTL,2,1,2,12.5,6.25,Single-dealer city,2,3
+Vipul Motors,Gurgaon,Haryana,VPL,1,1,1,6.25,6.25,Single-dealer city,3,3
+Indus Motors,Kochi,Kerala,IND,1,1,1,6.25,6.25,Single-dealer city,3,3
+Varun Motors,Hyderabad,Telangana,VAR,1,1,1,6.25,6.25,Single-dealer city,3,3
